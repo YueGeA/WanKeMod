@@ -1,0 +1,6 @@
+framework module WanKeSDK {
+  umbrella header "WanKeSDK.h"
+  export *
+
+  module * { export * }
+}
