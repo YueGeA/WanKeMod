@@ -1,9 +1,9 @@
 # WanKeMod
 WanKe Ads SDK
 
-How To Use?\n
-#import <WanKeSDK/WanKeMod.h>\n
-//init\n
-[[WanKeMod defaultMod] configWithAppId:@""];\n
-//banner ads\n
-[[WanKeMod defaultMod]showBannerAds];\n
+How To Use?
+#import <WanKeSDK/WanKeMod.h>
+//init
+[[WanKeMod defaultMod] configWithAppId:@""];
+//banner ads
+[[WanKeMod defaultMod]showBannerAds];
